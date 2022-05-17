@@ -1,0 +1,3687 @@
+{
+    "id": 2092619,
+    "file": "video_2092619_1683235.mp4",
+    "metadata": {
+        "width": 3840,
+        "height": 2160,
+        "duration": 342.23,
+        "fps": 30,
+        "frames": 10267,
+        "created": "Wed Oct  7 16:12:12 2020"
+    },
+    "frames": [
+        {
+            "number": 4129,
+            "image": "frame_4129.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 35,
+                        "y": 929,
+                        "width": 663,
+                        "height": 1100
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4143,
+            "image": "frame_4143.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 268,
+                        "y": 889,
+                        "width": 575,
+                        "height": 1124
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4158,
+            "image": "frame_4158.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 422,
+                        "y": 782,
+                        "width": 567,
+                        "height": 1008
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4173,
+            "image": "frame_4173.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 476,
+                        "y": 738,
+                        "width": 570,
+                        "height": 939
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4188,
+            "image": "frame_4188.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 460,
+                        "y": 714,
+                        "width": 517,
+                        "height": 866
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4203,
+            "image": "frame_4203.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 592,
+                        "y": 707,
+                        "width": 456,
+                        "height": 865
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4218,
+            "image": "frame_4218.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 689,
+                        "y": 587,
+                        "width": 524,
+                        "height": 870
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4233,
+            "image": "frame_4233.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 758,
+                        "y": 563,
+                        "width": 342,
+                        "height": 876
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4248,
+            "image": "frame_4248.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 807,
+                        "y": 533,
+                        "width": 388,
+                        "height": 795
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4263,
+            "image": "frame_4263.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 938,
+                        "y": 538,
+                        "width": 411,
+                        "height": 749
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4278,
+            "image": "frame_4278.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 984,
+                        "y": 502,
+                        "width": 324,
+                        "height": 762
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4293,
+            "image": "frame_4293.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 964,
+                        "y": 517,
+                        "width": 359,
+                        "height": 732
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4308,
+            "image": "frame_4308.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1069,
+                        "y": 520,
+                        "width": 364,
+                        "height": 664
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4323,
+            "image": "frame_4323.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1233,
+                        "y": 499,
+                        "width": 299,
+                        "height": 654
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4338,
+            "image": "frame_4338.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1333,
+                        "y": 494,
+                        "width": 293,
+                        "height": 608
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4353,
+            "image": "frame_4353.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1418,
+                        "y": 466,
+                        "width": 298,
+                        "height": 616
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4368,
+            "image": "frame_4368.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1490,
+                        "y": 455,
+                        "width": 269,
+                        "height": 614
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4383,
+            "image": "frame_4383.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1477,
+                        "y": 479,
+                        "width": 277,
+                        "height": 585
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4398,
+            "image": "frame_4398.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1456,
+                        "y": 438,
+                        "width": 270,
+                        "height": 616
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4413,
+            "image": "frame_4413.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1465,
+                        "y": 438,
+                        "width": 270,
+                        "height": 616
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4428,
+            "image": "frame_4428.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1491,
+                        "y": 468,
+                        "width": 270,
+                        "height": 616
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4443,
+            "image": "frame_4443.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1467,
+                        "y": 468,
+                        "width": 294,
+                        "height": 616
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4458,
+            "image": "frame_4458.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1417,
+                        "y": 448,
+                        "width": 294,
+                        "height": 616
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4473,
+            "image": "frame_4473.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1467,
+                        "y": 507,
+                        "width": 228,
+                        "height": 562
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4488,
+            "image": "frame_4488.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1459,
+                        "y": 499,
+                        "width": 223,
+                        "height": 514
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4503,
+            "image": "frame_4503.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1372,
+                        "y": 540,
+                        "width": 277,
+                        "height": 488
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4518,
+            "image": "frame_4518.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1403,
+                        "y": 548,
+                        "width": 223,
+                        "height": 490
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4533,
+            "image": "frame_4533.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1472,
+                        "y": 587,
+                        "width": 210,
+                        "height": 474
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4548,
+            "image": "frame_4548.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1485,
+                        "y": 597,
+                        "width": 236,
+                        "height": 467
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4563,
+            "image": "frame_4563.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1459,
+                        "y": 594,
+                        "width": 239,
+                        "height": 457
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4578,
+            "image": "frame_4578.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1379,
+                        "y": 622,
+                        "width": 283,
+                        "height": 429
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4593,
+            "image": "frame_4593.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1374,
+                        "y": 648,
+                        "width": 262,
+                        "height": 395
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4608,
+            "image": "frame_4608.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1436,
+                        "y": 669,
+                        "width": 259,
+                        "height": 361
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4623,
+            "image": "frame_4623.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1449,
+                        "y": 610,
+                        "width": 190,
+                        "height": 397
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4638,
+            "image": "frame_4638.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1336,
+                        "y": 525,
+                        "width": 262,
+                        "height": 457
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4653,
+            "image": "frame_4653.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1302,
+                        "y": 533,
+                        "width": 219,
+                        "height": 418
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4668,
+            "image": "frame_4668.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1161,
+                        "y": 548,
+                        "width": 352,
+                        "height": 388
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4683,
+            "image": "frame_4683.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1123,
+                        "y": 558,
+                        "width": 280,
+                        "height": 342
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4698,
+            "image": "frame_4698.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1136,
+                        "y": 558,
+                        "width": 251,
+                        "height": 347
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4713,
+            "image": "frame_4713.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1118,
+                        "y": 561,
+                        "width": 259,
+                        "height": 359
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4728,
+            "image": "frame_4728.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1159,
+                        "y": 594,
+                        "width": 195,
+                        "height": 316
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4743,
+            "image": "frame_4743.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1084,
+                        "y": 607,
+                        "width": 277,
+                        "height": 316
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4758,
+            "image": "frame_4758.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1043,
+                        "y": 651,
+                        "width": 393,
+                        "height": 287
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4773,
+            "image": "frame_4773.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 956,
+                        "y": 666,
+                        "width": 467,
+                        "height": 334
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4788,
+            "image": "frame_4788.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 961,
+                        "y": 720,
+                        "width": 444,
+                        "height": 285
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4803,
+            "image": "frame_4803.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 961,
+                        "y": 720,
+                        "width": 426,
+                        "height": 287
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4818,
+            "image": "frame_4818.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 989,
+                        "y": 712,
+                        "width": 408,
+                        "height": 301
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4833,
+            "image": "frame_4833.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1069,
+                        "y": 658,
+                        "width": 336,
+                        "height": 326
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4848,
+            "image": "frame_4848.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1074,
+                        "y": 640,
+                        "width": 329,
+                        "height": 352
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4863,
+            "image": "frame_4863.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1074,
+                        "y": 640,
+                        "width": 329,
+                        "height": 352
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4878,
+            "image": "frame_4878.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1066,
+                        "y": 679,
+                        "width": 311,
+                        "height": 290
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4893,
+            "image": "frame_4893.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 959,
+                        "y": 694,
+                        "width": 405,
+                        "height": 239
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4908,
+            "image": "frame_4908.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 900,
+                        "y": 551,
+                        "width": 464,
+                        "height": 379
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4923,
+            "image": "frame_4923.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 896,
+                        "y": 674,
+                        "width": 478,
+                        "height": 308
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4938,
+            "image": "frame_4938.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 925,
+                        "y": 764,
+                        "width": 475,
+                        "height": 218
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4953,
+            "image": "frame_4953.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 897,
+                        "y": 761,
+                        "width": 516,
+                        "height": 246
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4968,
+            "image": "frame_4968.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 904,
+                        "y": 780,
+                        "width": 513,
+                        "height": 236
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4983,
+            "image": "frame_4983.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 904,
+                        "y": 780,
+                        "width": 513,
+                        "height": 236
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4998,
+            "image": "frame_4998.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 904,
+                        "y": 780,
+                        "width": 513,
+                        "height": 236
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5013,
+            "image": "frame_5013.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 904,
+                        "y": 780,
+                        "width": 513,
+                        "height": 236
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5028,
+            "image": "frame_5028.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 904,
+                        "y": 780,
+                        "width": 513,
+                        "height": 236
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5043,
+            "image": "frame_5043.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 904,
+                        "y": 780,
+                        "width": 513,
+                        "height": 236
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5058,
+            "image": "frame_5058.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 904,
+                        "y": 780,
+                        "width": 513,
+                        "height": 236
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5073,
+            "image": "frame_5073.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 904,
+                        "y": 780,
+                        "width": 513,
+                        "height": 236
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5088,
+            "image": "frame_5088.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 904,
+                        "y": 780,
+                        "width": 513,
+                        "height": 236
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5103,
+            "image": "frame_5103.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 904,
+                        "y": 780,
+                        "width": 513,
+                        "height": 236
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5118,
+            "image": "frame_5118.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 904,
+                        "y": 780,
+                        "width": 513,
+                        "height": 236
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5132,
+            "image": "frame_5132.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 904,
+                        "y": 780,
+                        "width": 513,
+                        "height": 236
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5147,
+            "image": "frame_5147.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 904,
+                        "y": 780,
+                        "width": 513,
+                        "height": 236
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5162,
+            "image": "frame_5162.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 930,
+                        "y": 780,
+                        "width": 487,
+                        "height": 236
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5177,
+            "image": "frame_5177.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1020,
+                        "y": 780,
+                        "width": 397,
+                        "height": 236
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5192,
+            "image": "frame_5192.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 905,
+                        "y": 780,
+                        "width": 512,
+                        "height": 236
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5207,
+            "image": "frame_5207.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 954,
+                        "y": 780,
+                        "width": 463,
+                        "height": 236
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5222,
+            "image": "frame_5222.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1017,
+                        "y": 780,
+                        "width": 400,
+                        "height": 236
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5237,
+            "image": "frame_5237.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 926,
+                        "y": 780,
+                        "width": 491,
+                        "height": 236
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5252,
+            "image": "frame_5252.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 944,
+                        "y": 780,
+                        "width": 473,
+                        "height": 236
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5267,
+            "image": "frame_5267.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1016,
+                        "y": 780,
+                        "width": 401,
+                        "height": 236
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5282,
+            "image": "frame_5282.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 951,
+                        "y": 780,
+                        "width": 466,
+                        "height": 236
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5297,
+            "image": "frame_5297.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 989,
+                        "y": 780,
+                        "width": 428,
+                        "height": 236
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5312,
+            "image": "frame_5312.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 962,
+                        "y": 780,
+                        "width": 455,
+                        "height": 236
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5327,
+            "image": "frame_5327.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 994,
+                        "y": 757,
+                        "width": 423,
+                        "height": 259
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5342,
+            "image": "frame_5342.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 908,
+                        "y": 776,
+                        "width": 507,
+                        "height": 229
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5357,
+            "image": "frame_5357.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 908,
+                        "y": 776,
+                        "width": 507,
+                        "height": 229
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5372,
+            "image": "frame_5372.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 901,
+                        "y": 776,
+                        "width": 514,
+                        "height": 237
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5387,
+            "image": "frame_5387.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 901,
+                        "y": 776,
+                        "width": 514,
+                        "height": 237
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5402,
+            "image": "frame_5402.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 901,
+                        "y": 776,
+                        "width": 514,
+                        "height": 237
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5417,
+            "image": "frame_5417.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 901,
+                        "y": 776,
+                        "width": 514,
+                        "height": 237
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5432,
+            "image": "frame_5432.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 901,
+                        "y": 776,
+                        "width": 514,
+                        "height": 230
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5447,
+            "image": "frame_5447.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 901,
+                        "y": 776,
+                        "width": 514,
+                        "height": 230
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5462,
+            "image": "frame_5462.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 901,
+                        "y": 776,
+                        "width": 514,
+                        "height": 230
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5477,
+            "image": "frame_5477.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 901,
+                        "y": 776,
+                        "width": 397,
+                        "height": 217
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 363,
+                        "y": 426,
+                        "width": 128,
+                        "height": 251
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5492,
+            "image": "frame_5492.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1036,
+                        "y": 747,
+                        "width": 208,
+                        "height": 250
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 329,
+                        "y": 403,
+                        "width": 125,
+                        "height": 271
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5507,
+            "image": "frame_5507.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1048,
+                        "y": 757,
+                        "width": 217,
+                        "height": 234
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 266,
+                        "y": 391,
+                        "width": 148,
+                        "height": 275
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5522,
+            "image": "frame_5522.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1040,
+                        "y": 761,
+                        "width": 230,
+                        "height": 231
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 243,
+                        "y": 369,
+                        "width": 134,
+                        "height": 317
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5537,
+            "image": "frame_5537.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1040,
+                        "y": 761,
+                        "width": 230,
+                        "height": 231
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 177,
+                        "y": 351,
+                        "width": 166,
+                        "height": 346
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5552,
+            "image": "frame_5552.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1048,
+                        "y": 763,
+                        "width": 230,
+                        "height": 231
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 106,
+                        "y": 337,
+                        "width": 194,
+                        "height": 329
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5567,
+            "image": "frame_5567.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1048,
+                        "y": 763,
+                        "width": 216,
+                        "height": 231
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 66,
+                        "y": 317,
+                        "width": 174,
+                        "height": 326
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5582,
+            "image": "frame_5582.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1048,
+                        "y": 763,
+                        "width": 216,
+                        "height": 220
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 54,
+                        "y": 289,
+                        "width": 163,
+                        "height": 357
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5597,
+            "image": "frame_5597.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1048,
+                        "y": 763,
+                        "width": 216,
+                        "height": 220
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 46,
+                        "y": 283,
+                        "width": 74,
+                        "height": 197
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5612,
+            "image": "frame_5612.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1048,
+                        "y": 763,
+                        "width": 216,
+                        "height": 229
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5627,
+            "image": "frame_5627.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1048,
+                        "y": 763,
+                        "width": 216,
+                        "height": 229
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5642,
+            "image": "frame_5642.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1048,
+                        "y": 763,
+                        "width": 216,
+                        "height": 229
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5657,
+            "image": "frame_5657.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1048,
+                        "y": 763,
+                        "width": 216,
+                        "height": 229
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5672,
+            "image": "frame_5672.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1048,
+                        "y": 763,
+                        "width": 216,
+                        "height": 229
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5687,
+            "image": "frame_5687.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1048,
+                        "y": 763,
+                        "width": 216,
+                        "height": 229
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5702,
+            "image": "frame_5702.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1048,
+                        "y": 763,
+                        "width": 216,
+                        "height": 229
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5717,
+            "image": "frame_5717.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1048,
+                        "y": 763,
+                        "width": 216,
+                        "height": 229
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5732,
+            "image": "frame_5732.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1048,
+                        "y": 763,
+                        "width": 216,
+                        "height": 229
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5747,
+            "image": "frame_5747.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1048,
+                        "y": 763,
+                        "width": 216,
+                        "height": 229
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5762,
+            "image": "frame_5762.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1048,
+                        "y": 763,
+                        "width": 216,
+                        "height": 229
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5777,
+            "image": "frame_5777.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1048,
+                        "y": 763,
+                        "width": 216,
+                        "height": 229
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5792,
+            "image": "frame_5792.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1048,
+                        "y": 763,
+                        "width": 216,
+                        "height": 229
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5807,
+            "image": "frame_5807.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1048,
+                        "y": 763,
+                        "width": 216,
+                        "height": 229
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5822,
+            "image": "frame_5822.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1048,
+                        "y": 763,
+                        "width": 216,
+                        "height": 229
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5837,
+            "image": "frame_5837.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1048,
+                        "y": 763,
+                        "width": 216,
+                        "height": 229
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5852,
+            "image": "frame_5852.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1048,
+                        "y": 763,
+                        "width": 216,
+                        "height": 229
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5867,
+            "image": "frame_5867.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1048,
+                        "y": 763,
+                        "width": 216,
+                        "height": 229
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5882,
+            "image": "frame_5882.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1048,
+                        "y": 763,
+                        "width": 216,
+                        "height": 229
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5897,
+            "image": "frame_5897.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1048,
+                        "y": 763,
+                        "width": 216,
+                        "height": 229
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5912,
+            "image": "frame_5912.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1048,
+                        "y": 763,
+                        "width": 216,
+                        "height": 229
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5927,
+            "image": "frame_5927.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 945,
+                        "y": 747,
+                        "width": 319,
+                        "height": 245
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5942,
+            "image": "frame_5942.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 921,
+                        "y": 760,
+                        "width": 343,
+                        "height": 232
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5957,
+            "image": "frame_5957.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 921,
+                        "y": 760,
+                        "width": 343,
+                        "height": 232
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5972,
+            "image": "frame_5972.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 921,
+                        "y": 760,
+                        "width": 343,
+                        "height": 232
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5987,
+            "image": "frame_5987.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 921,
+                        "y": 760,
+                        "width": 343,
+                        "height": 232
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6002,
+            "image": "frame_6002.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 921,
+                        "y": 760,
+                        "width": 343,
+                        "height": 232
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6017,
+            "image": "frame_6017.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 921,
+                        "y": 760,
+                        "width": 343,
+                        "height": 232
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6032,
+            "image": "frame_6032.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 921,
+                        "y": 743,
+                        "width": 367,
+                        "height": 252
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6047,
+            "image": "frame_6047.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1050,
+                        "y": 725,
+                        "width": 347,
+                        "height": 265
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6062,
+            "image": "frame_6062.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1050,
+                        "y": 685,
+                        "width": 418,
+                        "height": 280
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6077,
+            "image": "frame_6077.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1050,
+                        "y": 637,
+                        "width": 452,
+                        "height": 312
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6092,
+            "image": "frame_6092.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 992,
+                        "y": 675,
+                        "width": 486,
+                        "height": 280
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6107,
+            "image": "frame_6107.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 979,
+                        "y": 729,
+                        "width": 436,
+                        "height": 270
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6122,
+            "image": "frame_6122.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 945,
+                        "y": 701,
+                        "width": 440,
+                        "height": 305
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6136,
+            "image": "frame_6136.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 988,
+                        "y": 687,
+                        "width": 294,
+                        "height": 322
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6151,
+            "image": "frame_6151.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 967,
+                        "y": 624,
+                        "width": 341,
+                        "height": 387
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6166,
+            "image": "frame_6166.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1019,
+                        "y": 470,
+                        "width": 320,
+                        "height": 529
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6181,
+            "image": "frame_6181.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1009,
+                        "y": 412,
+                        "width": 363,
+                        "height": 596
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6196,
+            "image": "frame_6196.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1114,
+                        "y": 421,
+                        "width": 289,
+                        "height": 579
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6211,
+            "image": "frame_6211.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1175,
+                        "y": 410,
+                        "width": 247,
+                        "height": 598
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6226,
+            "image": "frame_6226.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1181,
+                        "y": 386,
+                        "width": 231,
+                        "height": 588
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6241,
+            "image": "frame_6241.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1072,
+                        "y": 397,
+                        "width": 263,
+                        "height": 579
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6256,
+            "image": "frame_6256.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1049,
+                        "y": 452,
+                        "width": 267,
+                        "height": 517
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6271,
+            "image": "frame_6271.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1043,
+                        "y": 465,
+                        "width": 249,
+                        "height": 459
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6286,
+            "image": "frame_6286.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1017,
+                        "y": 463,
+                        "width": 273,
+                        "height": 445
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6301,
+            "image": "frame_6301.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1059,
+                        "y": 526,
+                        "width": 276,
+                        "height": 345
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6316,
+            "image": "frame_6316.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1086,
+                        "y": 571,
+                        "width": 254,
+                        "height": 313
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6331,
+            "image": "frame_6331.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1049,
+                        "y": 540,
+                        "width": 299,
+                        "height": 339
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6346,
+            "image": "frame_6346.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1096,
+                        "y": 465,
+                        "width": 321,
+                        "height": 411
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6361,
+            "image": "frame_6361.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1218,
+                        "y": 418,
+                        "width": 268,
+                        "height": 495
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6376,
+            "image": "frame_6376.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1181,
+                        "y": 402,
+                        "width": 313,
+                        "height": 516
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6391,
+            "image": "frame_6391.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1053,
+                        "y": 406,
+                        "width": 316,
+                        "height": 570
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6406,
+            "image": "frame_6406.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 847,
+                        "y": 442,
+                        "width": 414,
+                        "height": 593
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6421,
+            "image": "frame_6421.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 225,
+                        "y": 513,
+                        "width": 765,
+                        "height": 577
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6436,
+            "image": "frame_6436.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 241,
+                        "y": 518,
+                        "width": 477,
+                        "height": 623
+                    },
+                    "category": {
+                        "code": "drunk",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "21099"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
